@@ -9,7 +9,7 @@
 #
 
 # Set your hostname here, the manage_etc_hosts will update the hosts file entries as well
-hostname: rashome1
+hostname: piworker1
 
 # Enable password authentication with the SSH daemon
 ssh_pwauth: true
