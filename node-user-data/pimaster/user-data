@@ -20,7 +20,7 @@ users:
   primary-group: users
   shell: /bin/bash
   sudo: ALL=(ALL) NOPASSWD:ALL
-  passwd: $5$JohOZuDSz8s4hrMS$WAmGo.fT8UTVLLExKKag1KEP9QAIn16KJCfcEEhfnWC
+  passwd: $6$pCSkpst4IkNZ8E7t$NbJfqVY3F9TF3Mjz9c4BgwGecLVxcJvqjpW/2ytN1CKh6JyOoBoZLJOhwYcugbw0FyhZOGj/26PmLVasxf5EP.
   groups: users,adm,dialout,audio,plugdev,netdev,video
   lock_passwd: true
   ssh-authorized-keys:
